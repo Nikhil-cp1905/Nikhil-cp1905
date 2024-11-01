@@ -1,5 +1,22 @@
-# 💫 About Me:
-A driven technology enthusiast with proficiency in C, C++, and Python, currently pursuing a Bachelor of Technology in Computer Science at SRM Institute of Science and Technology (SRMIST). Passionate about solving complex technical challenges and seeking dynamic internship opportunities to apply and deepen my knowledge.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there+👋,+I'm+Nikhil; )](https://git.io/typing-svg)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikhilcp05)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nikhill.xp)
+
+**Enthusiastic and results-oriented Programmer with a passion for building innovative solutions.**
+
+**About Me**
+
+Hi there! I'm a full-stack web developer with a strong drive to create exceptional web experiences. My passion lies in software engineering, and I thrive on challenges that allow me to push my boundaries and learn new technologies. Driven by self-teaching and a passion for the subject, I am constantly pushing myself forward towards achieving success. I'm known for my enthusiasm, dedication, and reliability. 
+
+My passion to solve any problem that come my way, well versed in C++, Python , Embedded C , Graphic designing , java etc and constantly upgrading my self to the latest tech stuff and getting onto domains such as frontend backend and full stack  and Creatives from scratch I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos or animes for enjoyment.
+
+## **Talking about Personal Stuff**
+- 🌱 I’m currently planning on learning AI and ML, WebDev , Embedded C and CyberSecurity.
+- 🤔 I’m looking for help with anything regarding Web Development
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Mail](mailto:cpnikhil05@gmail.com) 
+
 
 
 ## 🌐 Socials:
@@ -15,10 +32,8 @@ A driven technology enthusiast with proficiency in C, C++, and Python, currently
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhil-cp1905&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhil-cp1905&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
