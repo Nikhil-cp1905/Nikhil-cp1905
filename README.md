@@ -36,18 +36,9 @@ My passion to solve any problem that come my way, well versed in C++, Python , E
 -----
 
 <div align="center"> 
-  
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
+
 
 <h2 align="center">Leetcode Info 🖥️ <h2>  
-<p align="center">
-  <a href="https://leetcode.com/Nikhil_cp/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Nikhil_cp/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Nikhil_cp/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Nikhil_cp/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Nikhil_cp?theme=dark&font=Nunito&ext=heatmap" />  
