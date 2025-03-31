@@ -98,10 +98,6 @@ Let's innovate together! 🚀
         <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="65" height="65" />
         <br>Vercel
       </td>
@@ -203,8 +199,9 @@ Let's innovate together! 🚀
     </tr>
   </table>
 </details>
-<summary>
 <details>
+
+<summary>
 <b>🧠 AI & Cutting Edge</b></summary>
   <br>
   <table>
@@ -227,7 +224,7 @@ Let's innovate together! 🚀
       </td>
      </tr>
   </table>
-</details> -->
+</details> 
 
 ## 📊 Weekly Coding Stats
 
