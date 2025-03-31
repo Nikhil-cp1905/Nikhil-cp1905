@@ -10,10 +10,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" height="200" width="600" />
-</div>
-
 ## 💫 About Me
 
 > **    "Innovation is intelligence having fun." – Albert Einstein**
@@ -63,97 +59,20 @@ Let's innovate together! 🚀
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
         <br>Python
       </td>
-    </tr>
-  </table>
-</details>
-
-<details open>
-  <summary><b>💾 Databases & Storage</b></summary>
-  <br>
-  <table>
-    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
+        <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="65" height="65" />
+        <br>Git
       </td>
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" alt="DynamoDB" width="65" height="65" />
         <br>DynamoDB
       </td>
-    </tr>
-  </table>
-</details>
-
-<details open>
-  <summary><b>☁️ Cloud & DevOps</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="65" height="65" />
-        <br>Vercel
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details open>
-  <summary><b>🎨 Frontend & Design</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="65" height="65" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="65" height="65" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="65" height="65" />
-        <br>Tailwind
-    </tr>
-  </table>
-</details>
-
-<details open>
-  <summary><b>📱 Mobile & Cross-Platform</b></summary>
-  <br>
-  <table>
-    <tr>
+        <br>Tailwind </td>
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="65" height="65" />
         <br>React Native
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>⚙️ Languages & OS</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="65" height="65" />
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="65" height="65" />
-        <br>Linux
       </td>
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="65" height="65" />
@@ -167,70 +86,13 @@ Let's innovate together! 🚀
         <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="65" height="65" />
         <br>Bash
       </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>🧰 Tools & Utilities</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="65" height="65" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/vim/019733" alt="Vim" width="65" height="65" />
         <br>Vim
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/lazyvim/2E7DE9" alt="LazyVim" width="65" height="65" />
-        <br>LazyVim
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="65" height="65" />
-        <br>npm
-      </td>
     </tr>
   </table>
 </details>
-<details>
-
-<summary>
-<b>🧠 AI & Cutting Edge</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="65" height="65" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="65" height="65" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="65" height="65" />
-        <br>OpenAI API
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="65" height="65" />
-        <br>Gemini
-      </td>
-     </tr>
-  </table>
-</details> 
-
-## 📊 Weekly Coding Stats
-
-<div align="center">	
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nikhil-cp1905&layout=compact&theme=radical&hide_border=true" alt="Wakatime Stats" />
-</div>
 
 ## 📈 Contribution & Activity
 
