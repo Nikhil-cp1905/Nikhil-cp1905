@@ -160,7 +160,7 @@ Let's innovate together! 🚀
         <br>Linux
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="65" height="65" />https://github.com/Nikhil-cp1905/Tarzan
+        <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="65" height="65" />
         <br>Fedora Linux
       </td>
       <td align="center" width="96">
