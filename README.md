@@ -203,7 +203,9 @@ Let's innovate together! 🚀
     </tr>
   </table>
 </details>
-<summary><b>🧠 AI & Cutting Edge</b></summary>
+<summary>
+<details>
+<b>🧠 AI & Cutting Edge</b></summary>
   <br>
   <table>
     <tr>
@@ -216,10 +218,6 @@ Let's innovate together! 🚀
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/langchain/3178C6" alt="LangChain" width="65" height="65" />
-        <br>LangChain
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="65" height="65" />
         <br>OpenAI API
       </td>
@@ -227,11 +225,7 @@ Let's innovate together! 🚀
         <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="65" height="65" />
         <br>Gemini
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/webassembly/654FF0" alt="WebAssembly" width="65" height="65" />
-        <br>WASM
-      </td>
-    </tr>
+     </tr>
   </table>
 </details> -->
 
@@ -253,18 +247,3 @@ Let's innovate together! 🚀
   <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-cp1905&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Nikhil-cp1905/Kubernetes-Failure-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-cp1904&repo=project-1&theme=radical&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Nikhil-cp1905/Tarzan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-cp1905&repo=project-2&theme=radical&hide_border=true" alt="Project 2" />
-  </a>
-</div> 
-
-
-## 🗺️ Developer Roadmap
-
-[![roadmap.sh](https://roadmap.sh/card/wide/648dd3d9779070ae6248303b?variant=dark&roadmaps=datastructures-and-algorithms%2Capi-design%2Cfull-stack%2Clinux)](https://roadmap.sh)
