@@ -1,7 +1,7 @@
 # Hey there 👋, I'm Nikhil
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Cloud%20Architecture%20Enthusiast;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Embedded%system%20Enthusiast;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/nikhilcp05/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
