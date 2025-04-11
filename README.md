@@ -12,8 +12,6 @@
 
 ## 💫 About Me
 
-> **    "Innovation is intelligence having fun." – Albert Einstein**
-
 I'm an engineer passionate about robotics, embedded systems, and AI-driven applications. With hands-on experience in autonomous navigation, sensor integration, and computer vision, I thrive on solving real-world challenges with technology. My journey is fueled by curiosity and a drive to push the boundaries of what's possible.
 
    🚀 Currently developing AgriProbe BioBox for soil analysis
