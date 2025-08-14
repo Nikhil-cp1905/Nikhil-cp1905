@@ -18,7 +18,7 @@ I'm an engineer passionate about robotics, embedded systems, and AI-driven appli
    🤖 Building autonomous systems with Zephyr and embedded platforms
    🧠 Exploring AI/ML for real-time object detection
    ⚡ Enthusiast in competitive coding and Graphic Designing
-   🎮 Gamer at heart, leading DNA esports team
+   
 
 Let's innovate together! 🚀
 <div align="center">
