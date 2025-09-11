@@ -15,7 +15,7 @@
 I'm an engineer passionate about robotics, embedded systems, and AI-driven applications. With hands-on experience in autonomous navigation, sensor integration, and computer vision, I thrive on solving real-world challenges with technology. My journey is fueled by curiosity and a drive to push the boundaries of what's possible.
 
    🚀 Currently developing AgriProbe BioBox for soil analysis
-   🤖 Building autonomous systems with Zephyr and embedded platforms
+   🤖 Building autonomous systems with Zephyr and embedded platforms.
    🧠 Exploring AI/ML for real-time object detection
    ⚡ Enthusiast in competitive coding and Graphic Designing
    
